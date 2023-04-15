@@ -240,6 +240,14 @@ footer {
     width: 100%;
 }
 
+/* Form */
+.form-section {
+    background: url('../images/formbg.jpg') no-repeat center center;
+    background-size: cover;
+    height: 900px;
+    clear: both;
+}
+
 /* For larger to medium screens size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
     #club-ethos {
